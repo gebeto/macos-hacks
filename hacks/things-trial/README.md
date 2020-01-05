@@ -1,4 +1,4 @@
-# things-trial
+# Things 3 Trial
 
 This is a shared library that spoofs some ObjC method calls to disable Things3 license verification.
 
