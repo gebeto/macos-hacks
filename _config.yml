@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+
+seo: true
+plugins:
+  - jekyll-sitemap
