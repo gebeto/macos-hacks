@@ -1,7 +1,7 @@
 CFLAGS = -dynamiclib -framework AppKit -framework Foundation
 
 all:
-	$(CC) $(CFLAGS) thingstrial.m -o libthingstrial.dylib
+	$(CC) $(CFLAGS) main.m -o libpatch.dylib
 
 clean:
-	rm -rf *.o libthingstrial.dylib
+	rm -rf *.o libpatch.dylib
