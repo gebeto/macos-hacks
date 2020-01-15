@@ -1,6 +1,6 @@
 # Bear Pro
 
-This is a shared library that spoofs some ObjC method calls to enable Bear Pro subscription for free.
+This is a shared library that spoofs some ObjC method calls to enable **[bear](https://apps.apple.com/ua/app/bear/id1091189122?mt=12) *Pro subscription*** for free.
 
 ## Building
 ```sh
