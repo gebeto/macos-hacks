@@ -5,6 +5,7 @@ source "${HACK_PATH}/config"
 ROOT="${HACK_PATH}/"
 APP_ROOT="${ROOT}/${APP_NAME}.app"
 
+rm -rf "${APP_ROOT}"
 mkdir "${APP_ROOT}"
 
 cp "${HACK_PATH}/run.sh" "${APP_ROOT}/${APP_NAME}"
