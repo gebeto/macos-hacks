@@ -64,3 +64,5 @@ iOSInjectionProject/
 
 *.dylib
 .DS_Store
+hacks/*/Icon.icns
+hacks/*/*.app
