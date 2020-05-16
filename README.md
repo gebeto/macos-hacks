@@ -6,10 +6,12 @@ Make sure to disable SIP (`csrutil disable` from Recovery), for more information
 
 ## Hacks
 
-| Application    | Link                               |
-|----------------|------------------------------------|
-| Things 3 Trial | [things-trial](hacks/things-trial) |
-| Bear           | [bear-pro](hacks/bear-pro)         |
+| Application    | Link                                   |
+|----------------|----------------------------------------|
+| Things 3 Trial | [things-trial](hacks/things-trial)     |
+| Bear           | [bear-pro](hacks/bear-pro)             |
+| Sketch         | [sketch-trial](hacks/sketch-trial)     |
+| VPN Master     | [vpn-master-vip](hacks/vpn-master-vip) |
 
 ## Important
 This hack doesn't work on systems with **SIP** (System Integrity Protection) enabled, and it's enabled by default since El Capitan. It can be easily disabled from Recovery Mode but it's another layer of security which is always good to have so disabling it permanently is not the wisest idea. I'll implement some solution to bypass this restriction when I have time.
