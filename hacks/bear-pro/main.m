@@ -9,7 +9,6 @@
     - (BOOL)isProSubscriptionValid;
 @end
 
-
 @implementation SFNotesPreferenceManagerPatched
 
     + (void)load {
@@ -57,8 +56,7 @@
 
 
 @interface SFNotesIAPPurchasesPatched : NSObject
-@property(nonatomic) BOOL subscriptionValidated;
-
+    @property(nonatomic) BOOL subscriptionValidated;
 @end
 
 @implementation SFNotesIAPPurchasesPatched
