@@ -17,7 +17,7 @@ Make sure to disable SIP (`csrutil disable` from Recovery), for more information
 This hack doesn't work on systems with **SIP** (System Integrity Protection) enabled, and it's enabled by default since El Capitan. It can be easily disabled from Recovery Mode but it's another layer of security which is always good to have so disabling it permanently is not the wisest idea. I'll implement some solution to bypass this restriction when I have time.
 
 ## Building
-```
+```sh
 git clone https://github.com/gebeto/macos-hacks
 cd macos-hacks
 cd <APPLICATION>
