@@ -5,6 +5,6 @@ This is a shared library that spoofs some ObjC method calls to enable **[bear](h
 ## Building
 ```sh
 git clone https://github.com/gebeto/macos-hacks
-cd macos-hacks/bear-pro
+cd macos-hacks/hacks/bear-pro
 make
 ```
