@@ -7,6 +7,6 @@ Tested on Things 3.10.1.
 ## Building
 ```sh
 git clone https://github.com/gebeto/macos-hacks
-cd macos-hacks/things-trial
+cd macos-hacks/hacks/things-trial
 make
 ```
