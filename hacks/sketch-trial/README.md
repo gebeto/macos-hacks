@@ -7,6 +7,6 @@ Based on [https://github.com/xhruso00/SketchLauncher](https://github.com/xhruso0
 ## Building
 ```sh
 git clone https://github.com/gebeto/macos-hacks
-cd macos-hacks/sketch-trial
+cd macos-hacks/hacks/sketch-trial
 make
 ```
